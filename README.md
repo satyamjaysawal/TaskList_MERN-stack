@@ -22,7 +22,7 @@ It is simple MERN project where you can learn how to connect backend and fronten
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/satyamjaysawal/TaskList_MERN-stack.git
 ```
 
 ### Add configurations for **Backend** 🖧
